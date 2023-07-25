@@ -10,3 +10,15 @@
 body {
     font-size: 5rem;
 }
+
+.main-header {
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+}
+.container {
+    margin: 20px 0 0 0;
+}
