@@ -8,8 +8,9 @@
 }
 
 body {
-    font-family: 'Courier New', Courier, monospace;
-    color: rgb(255, 127, 244);
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 174, 127);
     font-size: 5rem;
 }
 
